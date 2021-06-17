@@ -7,7 +7,6 @@ First of all you need to install AutoHotKey https://www.autohotkey.com
 ```
 git clone https://github.com/mauroapo/BatteryHelper.git
 cd ./BatteryHelper pip install -r requirements.txt
-
 ```
 
 After the installation you just need to run the runbat.ahk
